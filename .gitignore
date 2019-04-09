@@ -61,6 +61,9 @@ public
 # Mac files
 .DS_Store
 
+# Local artifact
+.tags
+
 # Yarn
 yarn-error.log
 .pnp/
