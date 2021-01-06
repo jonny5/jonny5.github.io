@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{ZsSW:function(n,t,e){"use strict";e.r(t);var r=e("dI71"),o=e("q1tI"),u=e.n(o),i=(e("Bl7J"),e("vrFN"),e("JXRv"),e("wd/R"),e("qhky"),function(n){function t(){return n.apply(this,arguments)||this}return Object(r.a)(t,n),t.prototype.render=function(){return u.a.createElement("div",null)},t}(u.a.Component));t.default=i}}]);
+//# sourceMappingURL=component---src-pages-books-js-e08004f9ad7fffb223a3.js.map
